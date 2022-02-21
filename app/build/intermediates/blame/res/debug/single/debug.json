@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_ocr_capture.xml.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\layout\\ocr_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selected.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-hdpi\\selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_unselected_image.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-xxhdpi\\unselected_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_unselected_image.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-xhdpi\\unselected_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_unselected_image.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-mdpi\\unselected_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_selected.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-xhdpi\\selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_selected.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-xxhdpi\\selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unselected_image.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-hdpi\\unselected_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selected.png.flat",
+        "source": "C:\\Users\\Kaveen\\AndroidStudioProjects\\number-plate-recognition-master\\app\\src\\main\\res\\drawable-mdpi\\selected.png"
+    }
+]
